@@ -8,7 +8,7 @@
 int puissance(int a, int b);
 
 int Char_vers_ASCII(char l);
-int ASCII_vers_Char(int code);
+char ASCII_vers_Char(int code);
 
 int* ASCII_vers_Binaire(int code);
 int Binaire_vers_ASCII(int* binaire);
